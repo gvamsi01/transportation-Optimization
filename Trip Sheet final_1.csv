@@ -1,0 +1,464 @@
+Hour,Taxi.stand,Destination,Route.No,Count
+0,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,5
+0,"Central, Tew Chew Street, SIngapore","17 Jiak Kim St, Singapore 169420",1.1,9
+0,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",1.2,1
+1,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,3
+1,"Central, Tew Chew Street, SIngapore","17 Jiak Kim St, Singapore 169420",1.1,4
+1,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",1.2,4
+2,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,4
+2,"Central, Tew Chew Street, SIngapore","17 Jiak Kim St, Singapore 169420",1.1,4
+2,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",1.2,1
+3,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,1
+3,"Central, Tew Chew Street, SIngapore","17 Jiak Kim St, Singapore 169420",1.1,3
+3,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",1.2,5
+3,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",2,1
+4,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,2
+4,"Central, Tew Chew Street, SIngapore","17 Jiak Kim St, Singapore 169420",1.1,2
+4,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",1.2,2
+4,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",2,3
+5,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",1,1
+7,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",1,2
+8,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",1,1
+9,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",1,1
+10,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,5
+10,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",2,1
+11,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",1,1
+11,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",2,4
+12,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,2
+12,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",2,1
+12,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",3,2
+13,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,3
+14,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,1
+14,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",2,1
+15,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,1
+15,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",2,1
+16,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,1
+17,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,3
+17,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",2,1
+18,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,1
+18,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",2,2
+19,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,2
+19,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",2,1
+19,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",3,1
+20,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,4
+20,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",2,2
+21,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,2
+21,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",2,1
+22,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,3
+22,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",2,2
+23,"Central, Tew Chew Street, SIngapore","10 Bayfront Ave, Singapore 018956",1,1
+23,"Central, Tew Chew Street, SIngapore","7 Claymore Rd, Singapore 229538",2,2
+23,"Central, Tew Chew Street, SIngapore","T1 Arrival Cres, Singapore",3,1
+0,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1,5
+1,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1,11
+2,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1,1
+3,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+3,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1.1,2
+4,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1,1
+6,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+9,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+12,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+12,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1.1,1
+13,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+13,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1.1,1
+14,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+15,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+15,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1.1,1
+16,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,5
+17,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+18,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+19,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,4
+19,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1.1,1
+20,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+20,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1.1,1
+21,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1,3
+22,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+22,"Centrepoint, Orchard Road, Singapore","Tan Tye Pl, Singapore",1.1,1
+23,"Centrepoint, Orchard Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+0,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+1,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+3,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+6,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+8,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+9,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+11,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+12,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+13,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,4
+14,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+15,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+16,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+17,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+18,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,5
+20,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+21,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+22,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+23,"Grand Court Restaurant, Temple Street, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+0,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+0,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,7
+0,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1.2,3
+1,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+1,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,3
+1,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1.2,6
+2,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+2,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,2
+2,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1.2,8
+3,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1,2
+3,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1.1,2
+4,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+4,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,5
+4,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1.2,3
+5,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1,3
+5,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1.1,3
+5,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,3
+6,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",1,2
+7,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1,1
+7,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,4
+9,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+10,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+11,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+12,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+12,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,2
+12,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,5
+13,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+13,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,4
+14,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1,1
+15,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1,1
+15,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1.1,2
+15,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,1
+16,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",1,2
+17,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+18,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+18,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,2
+18,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,1
+19,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,6
+19,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,3
+19,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,3
+20,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+20,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,1
+21,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+21,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1.1,2
+21,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,1
+22,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","177A River Valley Rd, Singapore 179031",1,2
+22,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",1.1,3
+22,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","65 Airport Blvd, Singapore",2,1
+23,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+23,"Haw Par Glass Centre, Clemenceau Avenue, Singapore","7 Claymore Rd, Singapore 229538",2,2
+0,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+2,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+5,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",1,3
+6,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",1,2
+6,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",1.1,1
+7,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",1,4
+7,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",1.1,1
+8,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",1,2
+9,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",1,2
+9,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",1.1,1
+10,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+10,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,1
+10,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,3
+11,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",1,3
+12,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,5
+12,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,3
+12,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,2
+13,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,7
+13,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,5
+13,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,4
+14,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,6
+14,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,5
+14,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,2
+15,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,8
+15,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,1
+15,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,3
+16,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+16,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,1
+16,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,1
+17,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+17,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,2
+18,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+18,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,4
+18,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,2
+19,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+19,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,1
+19,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,5
+20,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+20,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2,1
+21,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",1,1
+21,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",1.1,1
+22,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+22,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,1
+22,"Meritus Mandarin Hotel, Orchard Link, Singapore","T1 Departure Cres, Singapore",2.1,1
+23,"Meritus Mandarin Hotel, Orchard Link, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+23,"Meritus Mandarin Hotel, Orchard Link, Singapore","65 Airport Blvd, Singapore",2,1
+0,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+1,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+3,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+7,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",1,1
+8,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",1,2
+9,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+9,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",2,8
+10,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",1,6
+11,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+11,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",2,2
+12,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+12,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",2,1
+13,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+13,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",2,3
+14,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,8
+14,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",2,3
+15,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,6
+15,"Ngee Ann City,Orchard Turn, Singapore","16 Nassim Rd, Singapore",2,1
+16,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,5
+18,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,4
+19,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+20,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+21,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+22,"Ngee Ann City,Orchard Turn, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+0,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+1,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+2,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",1,2
+2,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2,1
+3,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+5,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",1,2
+5,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",2,1
+5,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2.1,1
+6,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",1,1
+6,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",2,3
+6,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2.1,1
+7,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",1,1
+7,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",2,1
+7,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2.1,1
+8,"Orchard Road, Lucky Plaza, Singapore","1 Cluny Rd, Singapore 259569",1,1
+8,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",1.1,7
+8,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",1.2,1
+8,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",2,1
+8,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2.1,1
+9,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",1,8
+9,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2,5
+10,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+10,"Orchard Road, Lucky Plaza, Singapore","1 Cluny Rd, Singapore 259569",2,2
+10,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",2.1,5
+10,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",2.2,1
+10,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",3,2
+11,"Orchard Road, Lucky Plaza, Singapore","1 Cluny Rd, Singapore 259569",1,3
+11,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",1.1,2
+11,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",1.2,4
+11,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",2,1
+11,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2.1,3
+12,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,5
+12,"Orchard Road, Lucky Plaza, Singapore","1 Cluny Rd, Singapore 259569",2,4
+12,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",2.1,1
+12,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",2.2,2
+12,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",3,2
+13,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,6
+13,"Orchard Road, Lucky Plaza, Singapore","1 Cluny Rd, Singapore 259569",2,8
+13,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",2.1,2
+13,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",2.2,2
+13,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",3,6
+13,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",3.1,2
+14,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+14,"Orchard Road, Lucky Plaza, Singapore","1 Cluny Rd, Singapore 259569",2,5
+14,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",2.1,8
+14,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",2.2,1
+14,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",3,4
+14,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",3.1,3
+15,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+15,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",2,1
+15,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",2.1,3
+15,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",3,2
+16,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+16,"Orchard Road, Lucky Plaza, Singapore","1 Cluny Rd, Singapore 259569",2,2
+16,"Orchard Road, Lucky Plaza, Singapore","16 Nassim Rd, Singapore",2.1,2
+16,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",2.2,1
+16,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",3,3
+16,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",3.1,6
+17,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",1,2
+17,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",2,2
+17,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2.1,5
+18,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+18,"Orchard Road, Lucky Plaza, Singapore","1 Cluny Rd, Singapore 259569",2,1
+18,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",3,3
+18,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",3.1,1
+19,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+19,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",2,2
+19,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",3,2
+19,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",3.1,2
+20,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+20,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",2,2
+21,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+21,"Orchard Road, Lucky Plaza, Singapore","249-279 Balestier Rd, Singapore",2,2
+21,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",3,2
+21,"Orchard Road, Lucky Plaza, Singapore","T1 Departure Cres, Singapore",3.1,1
+22,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+23,"Orchard Road, Lucky Plaza, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+23,"Orchard Road, Lucky Plaza, Singapore","65 Airport Blvd, Singapore",2,1
+0,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",1,1
+1,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",1,1
+4,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",1,1
+5,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,2
+5,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,1
+5,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",3,1
+7,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",1,1
+7,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",2,1
+8,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+8,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",1.1,1
+8,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",2,4
+9,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+9,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",1.1,1
+9,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",2,1
+10,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+10,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",1.1,1
+10,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",2,3
+11,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,3
+11,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",2,3
+11,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",3,1
+12,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,2
+12,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,4
+12,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",3,3
+13,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,3
+13,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,5
+13,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",2.1,2
+13,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",3,1
+14,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,2
+14,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,7
+15,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,5
+15,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,4
+15,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",3,3
+16,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,4
+16,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,5
+16,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",2.1,2
+17,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+17,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",1.1,2
+17,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",2,4
+18,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,1
+18,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,5
+18,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",2.1,2
+18,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",3,1
+19,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,2
+19,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,1
+19,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",2.1,1
+19,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",3,1
+20,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,1
+20,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,1
+20,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",2.1,1
+21,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,2
+21,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,3
+21,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",2.1,1
+22,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+22,"PA Staff Club, Queen Street, Singapore","5001 Beach Rd, Singapore 199588",1.1,1
+23,"PA Staff Club, Queen Street, Singapore","Gateway Ave, Singapore",1,1
+23,"PA Staff Club, Queen Street, Singapore","10 Bayfront Ave, Singapore 018956",2,1
+23,"PA Staff Club, Queen Street, Singapore","T1 Arrival Cres, Singapore",3,1
+0,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+1,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+2,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+3,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+5,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",1,1
+6,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",1,2
+7,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",1,2
+8,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+8,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,1
+8,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,1
+9,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+9,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,1
+10,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+10,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,1
+10,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,3
+11,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+11,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,1
+11,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,3
+12,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,5
+12,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,1
+12,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,2
+13,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+13,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,2
+13,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,2
+14,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+14,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,2
+14,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,1
+15,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,4
+15,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,1
+16,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+16,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,2
+16,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,6
+17,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,4
+17,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,3
+17,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,5
+18,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+18,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,4
+18,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,4
+19,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,5
+19,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,2
+19,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,3
+20,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+20,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2,6
+21,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,4
+22,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,5
+22,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,1
+22,"Raffles City, North Bridge Road, Singapore","T1 Arrival Cres, Singapore",2.1,1
+23,"Raffles City, North Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+23,"Raffles City, North Bridge Road, Singapore","65 Airport Blvd, Singapore",2,1
+0,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+0,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1.1,3
+1,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+1,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1.1,8
+2,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+2,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1.1,2
+3,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1,1
+6,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+10,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+11,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1,3
+12,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+13,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+15,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+15,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1.1,1
+16,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1,1
+17,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+18,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+18,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1.1,1
+19,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+19,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1.1,2
+20,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+21,"Sri Mariamman Temple, South Bridge Road, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+22,"Sri Mariamman Temple, South Bridge Road, Singapore","3C River Valley Rd, Singapore 179022",1,2
+0,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+0,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,4
+1,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+1,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,10
+2,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+2,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,3
+3,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1,6
+4,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1,1
+6,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",1,1
+7,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+7,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,2
+8,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+8,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,1
+9,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+10,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+10,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,1
+11,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1,1
+11,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,2
+12,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+12,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,2
+12,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,3
+13,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+13,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,1
+13,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,2
+15,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+16,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+16,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,2
+17,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+18,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,4
+18,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,3
+19,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,3
+19,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,1
+20,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,7
+20,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,1
+20,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,1
+21,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,2
+21,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,1
+21,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,1
+22,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+22,"Suntec City, Raffles Boulevard, Singapore","3C River Valley Rd, Singapore 179022",1.1,2
+23,"Suntec City, Raffles Boulevard, Singapore","10 Bayfront Ave, Singapore 018956",1,1
+23,"Suntec City, Raffles Boulevard, Singapore","65 Airport Blvd, Singapore",2,2
