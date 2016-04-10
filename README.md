@@ -9,3 +9,14 @@ The user can see travellers travelling pattern on an hourly basis by sliding the
 
 The extracted data based on hour, distance and minute interval are plotted using their latitude and longitude and are shown as markers. 
 
+The potential routes are extracted using DB Scan algorithm.
+
+
+
+
+
+
+
+
+
+@any issues and for support contact me on vamsigrandhi@u.nus.edu or +65-87329144
